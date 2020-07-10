@@ -1,6 +1,7 @@
 package diagonaldifference
 
 // DiagonalDifference ...
+// Link to the task: https://www.hackerrank.com/challenges/diagonal-difference/problem
 func DiagonalDifference(arr [][]int32) int32 {
 	len := len(arr[0])
 

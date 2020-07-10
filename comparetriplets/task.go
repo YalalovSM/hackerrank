@@ -1,6 +1,7 @@
 package comparetriplets
 
 // CompareTriplets ...
+// Link to the task: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 func CompareTriplets(a []int32, b []int32) []int32 {
 	var r []int32
 
